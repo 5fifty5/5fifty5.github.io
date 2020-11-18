@@ -1,0 +1,355 @@
+{
+	"movies":[{
+		"_id": "4",
+		"title": "10 Days in Sun City",
+		"year": 2017,
+		"image": "/nollywood/images/10DaysInSunCity.jpg",
+		"image2":
+			"https://upload.wikimedia.org/wikipedia/en/3/31/This_is_a_cover_image_for_10_Days_in_Sun_City.jpg",
+		"imdb": "https://www.imdb.com/title/tt10499474/",
+		"wikipedia": "https://en.wikipedia.org/wiki/10_Days_in_Sun_City",
+		"netflix": "https://www.netflix.com/title/81172729"
+	},
+	{
+		"_id": "6",
+		"title": "A Trip to Jamaica",
+		"year": 2016,
+		"image": "/nollywood/images/ATripToJamaica.jpg",
+		"imdb": "https://www.imdb.com/title/tt6334740/",
+		"wikipedia": "https://en.wikipedia.org/wiki/A_Trip_to_Jamaica",
+		"netflix": "https://www.netflix.com/title/81172747"
+	},
+	{
+		"_id": "15",
+		"title": "Alakada Reloaded",
+		"year": 2017,
+		"image": "/nollywood/images/AlakadaReloaded.jpg",
+		"imdb": "https://www.imdb.com/title/tt13275228/",
+		"wikipedia": "https://en.wikipedia.org/wiki/Alakada_Reloaded",
+		"netflix": "https://www.netflix.com/title/81172891"
+	},
+	{
+		"_id": "11",
+		"title": "B.I.G. - Banana Island Ghost",
+		"year": 2017,
+		"image": "/nollywood/images/BananaIslandGhost.jpg",
+		"imdb": "https://www.imdb.com/title/tt8149090/",
+		"wikipedia": "https://en.wikipedia.org/wiki/Banana_Island_Ghost",
+		"netflix": "https://www.netflix.com/title/81172740"
+	},
+	{
+		"_id": "23",
+		"title": "The Bling Lagosians",
+		"year": 2019,
+		"image": "/nollywood/images/TheBlingLagosians.jpg",
+		"imdb": "https://www.imdb.com/title/tt10410186/",
+		"wikipedia": "https://en.wikipedia.org/wiki/The_Bling_Lagosians",
+		"netflix": "https://www.netflix.com/title/81191666"
+	},
+	{
+		"_id": "7",
+		"title": "Cold Feet",
+		"year": 2019,
+		"image": "/nollywood/images/ColdFeet.jpg",
+		"imdb": "https://www.imdb.com/title/tt10377314/",
+		"wikipedia": "n/a",
+		"netflix": "https://www.netflix.com/title/81281632"
+	},
+	{
+		"_id": "5",
+		"title": "Couple of Days",
+		"year": 2016,
+		"image": "/nollywood/images/CoupleOfDays.jpg",
+		"imdb": "https://www.imdb.com/title/tt9741588/",
+		"wikipedia": "n/a",
+		"netflix": "https://www.netflix.com/title/80126995"
+	},
+	{
+		"_id": "10",
+		"title": "Crazy, Lovely, Cool (TV)",
+		"year": 2018,
+		"image": "/nollywood/images/CrazyLovelyCool.jpg",
+		"imdb": "https://www.imdb.com/title/tt8528314/",
+		"wikipedia": "https://en.wikipedia.org/wiki/Crazy,_Lovely,_Cool",
+		"netflix": "https://www.netflix.com/title/81213155"
+	},
+	{
+		"_id": "17",
+		"title": "Elevator Baby",
+		"year": 2019,
+		"image": "/nollywood/images/ElevatorBaby.jpg",
+		"imdb": "https://www.imdb.com/title/tt11005162/",
+		"wikipedia": "https://en.wikipedia.org/wiki/Elevator_Baby",
+		"netflix": "https://www.netflix.com/title/81270690"
+	},
+	{
+		"_id": "2",
+		"title": "Hakkunde",
+		"year": 2017,
+		"image": "/nollywood/images/Hakkunde.jpg",
+		"imdb": "https://www.imdb.com/title/tt6974886/",
+		"wikipedia": "https://en.wikipedia.org/wiki/Hakkunde",
+		"netflix": "https://www.netflix.com/title/81229197"
+	},
+	{
+		"_id": "29",
+		"title": "Kasanova",
+		"year": 2019,
+		"image": "/nollywood/images/Kasanova.jpg",
+		"imdb": "https://www.imdb.com/title/tt10887282/",
+		"wikipedia": "https://en.wikipedia.org/wiki/Kasanova",
+		"netflix": "https://www.netflix.com/title/81270691"
+	},
+	{
+		"_id": "3",
+		"title": "King of Boys",
+		"year": 2018,
+		"image": "/nollywood/images/KingOfBoys.jpg",
+		"imdb": "https://www.imdb.com/title/tt8329618/",
+		"wikipedia": "https://en.wikipedia.org/wiki/King_of_Boys",
+		"netflix": "https://www.netflix.com/title/81172721"
+	},
+	{
+		"_id": "31",
+		"title": "Last Flight to Abuja",
+		"year": 2012,
+		"image": "/nollywood/images/LastFlightToAbuja.jpg",
+		"imdb": "https://www.imdb.com/title/tt2287851/",
+		"wikipedia": "https://en.wikipedia.org/wiki/Last_Flight_to_Abuja",
+		"netflix": "https://www.netflix.com/title/81270776"
+	},
+	{
+		"_id": "14",
+		"title": "Mokalik (Mechanic)",
+		"year": 2019,
+		"image": "/nollywood/images/Mokalik.jpg",
+		"imdb": "https://www.imdb.com/title/tt10327136/",
+		"wikipedia": "https://en.wikipedia.org/wiki/Mokalik",
+		"netflix": "https://www.netflix.com/title/81165769"
+	},
+	{
+		"_id": "24",
+		"title": "Nigerian Prince",
+		"year": 2018,
+		"image": "/nollywood/images/NigerianPrince.jpg",
+		"imdb": "https://www.imdb.com/title/tt6851966/",
+		"wikipedia": "https://en.wikipedia.org/wiki/Nigerian_Prince_(film)",
+		"netflix": "https://www.netflix.com/title/81014211"
+	},
+	{
+		"_id": "25",
+		"title": "Òlòturé (Endurance)",
+		"year": 2020,
+		"image": "/nollywood/images/Oloture.jpg",
+		"imdb": "https://www.imdb.com/title/tt9725830/",
+		"wikipedia": "https://en.wikipedia.org/wiki/%C3%92l%C3%B2t%C5%ABr%C3%A9",
+		"netflix": "https://www.netflix.com/title/81300126"
+	},
+	{
+		"_id": "16",
+		"title": "Payday",
+		"year": 2018,
+		"image": "/nollywood/images/PayDay.jpg",
+		"imdb": "https://www.imdb.com/title/tt8960334/",
+		"wikipedia": "n/a",
+		"netflix": "https://www.netflix.com/title/81172899"
+	},
+	{
+		"_id": "1",
+		"title": "Phone Swap",
+		"year": 2012,
+		"image": "/nollywood/images/PhoneSwap.jpg",
+		"imdb": "https://www.imdb.com/title/tt2198109/",
+		"wikipedia": "https://en.wikipedia.org/wiki/Phone_Swap",
+		"netflix": "https://www.netflix.com/title/81165771"
+	},
+	{
+		"_id": "21",
+		"title": "Sugar Rush",
+		"year": 2019,
+		"image": "/nollywood/images/SugarRush.jpg",
+		"imdb": "https://www.imdb.com/title/tt11430264/",
+		"wikipedia": "https://en.wikipedia.org/wiki/Sugar_Rush_(2019_film)",
+		"netflix": "https://www.netflix.com/nr/title/81270838"
+	},
+	{
+		"_id": "19",
+		"title": "Tatu",
+		"year": 2017,
+		"image": "/nollywood/images/Tatu.jpg",
+		"imdb": "https://www.imdb.com/title/tt9742582/",
+		"wikipedia": "https://en.wikipedia.org/wiki/Tatu_(film)",
+		"netflix": "https://www.netflix.com/title/81172909"
+	},
+	{
+		"_id": "9",
+		"title": "The Arbitration",
+		"year": 2016,
+		"image": "/nollywood/images/TheArbitration.jpg",
+		"imdb": "https://www.imdb.com/title/tt5811182/",
+		"wikipedia": "https://en.wikipedia.org/wiki/The_Arbitration",
+		"netflix": "https://www.netflix.com/title/80208830"
+	},
+	{
+		"_id": "22",
+		"title": "The CEO",
+		"year": 2016,
+		"image": "/nollywood/images/TheCEO.jpg",
+		"imdb": "https://www.imdb.com/title/tt5036924/",
+		"wikipedia": "https://en.wikipedia.org/wiki/The_CEO",
+		"netflix": "https://www.netflix.com/title/81165770"
+	},
+	{
+		"_id": "20",
+		"title": "The Delivery Boy",
+		"year": 2019,
+		"image": "/nollywood/images/TheDeliveryBoy.jpg",
+		"imdb": "https://www.imdb.com/title/tt8541826/",
+		"wikipedia": "https://en.wikipedia.org/wiki/The_Delivery_Boy",
+		"netflix": "https://www.netflix.com/title/81073195"
+	},
+	{
+		"_id": "8",
+		"title": "The Ghost and the Tout",
+		"year": 2018,
+		"image": "/nollywood/images/TheGhostAndTheTout.jpg",
+		"imdb": "https://www.imdb.com/title/tt11802938/",
+		"wikipedia": "https://en.wikipedia.org/wiki/The_Ghost_and_the_Tout",
+		"netflix": "https://www.netflix.com/title/81172755"
+	},
+	{
+		"_id": "30",
+		"title": "The Lost Okoroshi",
+		"year": 2019,
+		"image": "/nollywood/images/TheLostOkoroshi.jpg",
+		"imdb": "https://www.imdb.com/title/tt10888456/",
+		"wikipedia": "n/a",
+		"netflix": "https://www.netflix.com/title/81103512"
+	},
+	{
+		"_id": "18",
+		"title": "The Mirror Boy",
+		"year": 2011,
+		"image": "/nollywood/images/TheMirrorBoy.jpg",
+		"imdb": "https://www.imdb.com/title/tt1730705/",
+		"wikipedia": "https://en.wikipedia.org/wiki/The_Mirror_Boy",
+		"netflix": "https://www.netflix.com/title/81270777"
+	},
+	{
+		"_id": "26",
+		"title": "The Taxi Driver: Oko Ashewo",
+		"year": 2015,
+		"image": "/nollywood/images/TaxiDriver.jpg",
+		"imdb": "https://www.imdb.com/title/tt5112438/",
+		"wikipedia": "https://en.wikipedia.org/wiki/Taxi_Driver:_Oko_Ashewo",
+		"netflix": "https://www.netflix.com/ng/title/80127504"
+	},
+	{
+		"_id": "27",
+		"title": "The Visit",
+		"year": 2015,
+		"image": "/nollywood/images/TheVisit.jpg",
+		"imdb": "",
+		"wikipedia": "https://en.wikipedia.org/wiki/The_Visit_(2015_Nigerian_film)",
+		"netflix": "https://www.netflix.com/ng/title/80127441"
+	},
+	{
+		"_id": "28",
+		"title": "The Wedding Party",
+		"year": 2016,
+		"image": "/nollywood/images/TheWeddingParty.jpg",
+		"imdb": "https://www.imdb.com/title/tt5978822/",
+		"wikipedia": "https://en.wikipedia.org/wiki/The_Wedding_Party_(2016_film)",
+		"netflix": "https://www.netflix.com/title/80168301"
+	},
+	{
+		"_id": "13",
+		"title": "Up North",
+		"year": 2018,
+		"image": "/nollywood/images/UpNorth.jpg",
+		"imdb": "https://www.imdb.com/title/tt8631800/",
+		"wikipedia": "https://en.wikipedia.org/wiki/Up_North_(film)",
+		"netflix": "https://www.netflix.com/title/81172902"
+	},
+	{
+		"_id": "12",
+		"title": "Wives on Strike - The Revolution",
+		"year": 2019,
+		"image": "/nollywood/images/WivesOnStrike.jpg",
+		"imdb": "https://www.imdb.com/title/tt10521028",
+		"wikipedia": "https://en.wikipedia.org/wiki/Wives_on_Strike",
+		"netflix": "https://www.netflix.com/title/81172868"
+	},
+	{
+		"_id": "32",
+		"title": "The First Lady",
+		"year": 2015,
+		"image": "/nollywood/images/TheFirstLady.jpg",
+		"imdb": "",
+		"wikipedia": "https://en.wikipedia.org/wiki/The_First_Lady_(film)",
+		"netflix": "https://www.netflix.com/ca/title/80126996"
+	},
+	{
+		"_id": "33",
+		"title": "Slow Country",
+		"year": 2017,
+		"image": "/nollywood/images/SlowCountry.jpg",
+		"imdb": "https://www.imdb.com/title/tt6911110/",
+		"wikipedia": "https://en.wikipedia.org/wiki/Slow_Country_(film)",
+		"netflix": "https://www.netflix.com/ca/title/81172758"
+	},
+	{
+		"_id": "34",
+		"title": "Lost in London",
+		"year": 2017,
+		"image": "/nollywood/images/LostInLondon.jpg",
+		"imdb": "https://www.imdb.com/title/tt6926236/",
+		"wikipedia": "",
+		"netflix": "https://www.netflix.com/ca/title/81172830"
+	},
+	{
+		"_id": "35",
+		"title": "In Line",
+		"year": 2017,
+		"image": "/nollywood/images/InLine.jpg",
+		"imdb": "https://www.imdb.com/title/tt7492760/",
+		"wikipedia": "",
+		"netflix": "https://www.netflix.com/watch/81324415"
+	},
+	{
+		"_id": "36",
+		"title": "Citation",
+		"year": 2020,
+		"image": "/nollywood/images/CitationLarge.jpg",
+		"imdb": "https://www.imdb.com/title/tt11481312/",
+		"wikipedia": "https://en.wikipedia.org/wiki/Citation_(film)",
+		"netflix": "https://www.netflix.com/ca/title/81294345"
+	},
+	{
+		"_id": "37",
+		"title": "Celebrity Marriage",
+		"year": 2017,
+		"image": "/nollywood/images/CelebrityMarriage.jpg",
+		"imdb": "",
+		"wikipedia": "",
+		"netflix": "https://www.netflix.com/title/81172756"
+	},
+	{
+		"_id": "38",
+		"title": "Potato Potahto",
+		"year": 2017,
+		"image": "/nollywood/images/PotatoPotahto.jpg",
+		"imdb": "https://www.imdb.com/title/tt6950250/",
+		"wikipedia": "https://en.wikipedia.org/wiki/Potato_Potahto",
+		"netflix": "https://www.netflix.com/title/81213149"
+	},
+	{
+		"_id": "39",
+		"title": "Chief Daddy",
+		"year": 2018,
+		"image": "/nollywood/images/ChiefDaddy.jpg",
+		"imdb": "https://www.imdb.com/title/tt9652322/",
+		"wikipedia": "https://en.wikipedia.org/wiki/Chief_Daddy",
+		"netflix": "https://www.netflix.com/watch/81074015"
+	}]
+}
