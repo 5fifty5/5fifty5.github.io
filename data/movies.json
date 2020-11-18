@@ -1,5 +1,4 @@
-{
-	"movies":[{
+[{
 		"_id": "4",
 		"title": "10 Days in Sun City",
 		"year": 2017,
@@ -352,4 +351,3 @@
 		"wikipedia": "https://en.wikipedia.org/wiki/Chief_Daddy",
 		"netflix": "https://www.netflix.com/watch/81074015"
 	}]
-}
